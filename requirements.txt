@@ -1,0 +1,7 @@
+appdirs==1.4.2
+Django==1.10.6
+django-jet==1.0.6
+packaging==16.8
+pyparsing==2.2.0
+six==1.10.0
+whitenoise==3.3.0
