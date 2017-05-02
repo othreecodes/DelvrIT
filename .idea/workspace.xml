@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbcfa0e7-75a1-40a0-b1f0-5628f0d015b3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/schema.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7cc38070-65a7-496d-b3f8-a6f5276b6f89.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/delvrit.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/0002_auto_20170502_1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/0003_item_warehouse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/0004_product_price.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/shop-homepage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/app/order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delvrit/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delvrit/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delvrit/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delvrit/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delvrit/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="99" column="74" lean-forward="false" selection-start-line="99" selection-start-column="74" selection-end-line="99" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7cc38070-65a7-496d-b3f8-a6f5276b6f89/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/7cc38070-65a7-496d-b3f8-a6f5276b6f89.SCHEMA:main" pinned="false" current-in-tab="false">
+        <entry file="uml://DATABASE/7cc38070-65a7-496d-b3f8-a6f5276b6f89.SCHEMA:main">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>7cc38070-65a7-496d-b3f8-a6f5276b6f89.SCHEMA:main</OriginalElement>
+              <nodes>
+                <node x="490.125" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions</node>
+                <node x="1931.380303030303" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products</node>
+                <node x="139.40700757575746" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions</node>
+                <node x="219.0" y="397.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log</node>
+                <node x="1167.1570075757575" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders</node>
+                <node x="585.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.sqlite_sequence</node>
+                <node x="723.375" y="0.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user</node>
+                <node x="0.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_migrations</node>
+                <node x="91.625" y="104.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type</node>
+                <node x="1507.875" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items</node>
+                <node x="1016.25" y="371.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order</node>
+                <node x="1782.255303030303" y="65.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product</node>
+                <node x="1592.375" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item</node>
+                <node x="1355.25" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery</node>
+                <node x="244.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_session</node>
+                <node x="1258.9166666666665" y="78.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location</node>
+                <node x="364.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.jet_bookmark</node>
+                <node x="628.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.sqlite_master</node>
+                <node x="0.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.dashboard_userdashboardmodule</node>
+                <node x="803.375" y="462.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_profile</node>
+                <node x="1709.125" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse</node>
+                <node x="883.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.jet_pinnedapplication</node>
+                <node x="1811.375" y="462.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse</node>
+                <node x="624.375" y="475.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group</node>
+                <node x="858.625" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups</node>
+                <node x="0.0" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+                  <point x="44.75" y="-56.5" />
+                  <point x="992.875" y="351.0" />
+                  <point x="960.675" y="351.0" />
+                  <point x="67.80000000000007" y="160.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group">
+                  <point x="-44.75" y="-56.5" />
+                  <point x="903.375" y="696.0" />
+                  <point x="743.625" y="696.0" />
+                  <point x="39.75" y="43.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse">
+                  <point x="-58.0" y="-56.5" />
+                  <point x="1989.380303030303" y="696.0" />
+                  <point x="1945.625" y="696.0" />
+                  <point x="44.75" y="56.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+                  <point x="0.0" y="-69.5" />
+                  <point x="1454.75" y="351.0" />
+                  <point x="1395.7916666666665" y="351.0" />
+                  <point x="27.375" y="82.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product">
+                  <point x="0.0" y="-69.5" />
+                  <point x="1691.875" y="351.0" />
+                  <point x="1842.005303030303" y="351.0" />
+                  <point x="-59.75" y="95.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+                  <point x="106.33333333333326" y="-147.5" />
+                  <point x="1282.0833333333333" y="351.0" />
+                  <point x="1341.0416666666665" y="351.0" />
+                  <point x="-27.375" y="82.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission">
+                  <point x="-67.0" y="-56.5" />
+                  <point x="206.40700757575746" y="696.0" />
+                  <point x="49.75" y="696.0" />
+                  <point x="-49.75" y="69.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item">
+                  <point x="-49.0" y="-56.5" />
+                  <point x="1758.125" y="696.0" />
+                  <point x="1741.625" y="696.0" />
+                  <point x="49.75" y="69.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_profile" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+                  <point x="0.0" y="-56.5" />
+                  <point x="0.0" y="160.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery">
+                  <point x="51.25" y="-56.5" />
+                  <point x="1320.9070075757575" y="696.0" />
+                  <point x="1454.75" y="696.0" />
+                  <point x="0.0" y="69.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type">
+                  <point x="-69.75" y="-121.5" />
+                  <point x="288.75" y="351.0" />
+                  <point x="245.375" y="351.0" />
+                  <point x="51.25" y="56.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+                  <point x="67.0" y="-56.5" />
+                  <point x="340.40700757575746" y="696.0" />
+                  <point x="508.5" y="696.0" />
+                  <point x="508.5" y="351.0" />
+                  <point x="825.075" y="351.0" />
+                  <point x="-67.79999999999995" y="160.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order">
+                  <point x="-51.25" y="-56.5" />
+                  <point x="1218.4070075757575" y="696.0" />
+                  <point x="1096.0" y="696.0" />
+                  <point x="-79.75" y="147.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item">
+                  <point x="44.75" y="-56.5" />
+                  <point x="-49.75" y="69.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+                  <point x="69.75" y="-121.5" />
+                  <point x="428.25" y="341.0" />
+                  <point x="757.2749999999999" y="341.0" />
+                  <point x="-135.60000000000002" y="160.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+                  <point x="0.0" y="-56.5" />
+                  <point x="1900.875" y="341.0" />
+                  <point x="1450.5416666666665" y="341.0" />
+                  <point x="82.125" y="82.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse">
+                  <point x="49.0" y="-56.5" />
+                  <point x="-44.75" y="56.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type">
+                  <point x="0.0" y="-69.5" />
+                  <point x="99.5" y="351.0" />
+                  <point x="142.875" y="351.0" />
+                  <point x="-51.25" y="56.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product">
+                  <point x="58.0" y="-56.5" />
+                  <point x="2105.380303030303" y="351.0" />
+                  <point x="1961.505303030303" y="351.0" />
+                  <point x="59.75" y="95.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+                  <point x="-106.33333333333326" y="-147.5" />
+                  <point x="1069.4166666666667" y="351.0" />
+                  <point x="1028.475" y="351.0" />
+                  <point x="135.5999999999999" y="160.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission">
+                  <point x="-58.0" y="-56.5" />
+                  <point x="548.125" y="686.0" />
+                  <point x="149.25" y="686.0" />
+                  <point x="49.75" y="69.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group">
+                  <point x="58.0" y="-56.5" />
+                  <point x="-39.75" y="43.5" />
+                </edge>
+                <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order">
+                  <point x="-44.75" y="-56.5" />
+                  <point x="1552.625" y="686.0" />
+                  <point x="1255.5" y="686.0" />
+                  <point x="79.75" y="147.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.39621267297887836" x="570.9108455882354" y="595.7352941176471" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/app/order.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="e#2376#2382#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delvrit/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#641#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/app/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop-homepage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/app/css/shop-homepage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+      <find>forei</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/app/migrations/0004_product_price.py" />
+        <option value="$PROJECT_DIR$/app/admin.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/delvrit/urls.py" />
+        <option value="$PROJECT_DIR$/delvrit/settings.py" />
+        <option value="$PROJECT_DIR$/app/templates/app/index.html" />
+        <option value="$PROJECT_DIR$/app/templates/app/order.html" />
+        <option value="$PROJECT_DIR$/app/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delvrit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/templates/app" />
+      <recent name="$PROJECT_DIR$/app/static/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.delvrit">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="delvrit" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.chornsby.intellij.plugins.django.MigrationRunConfigurationType" factoryName="Django migration">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="delvrit" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="delvrit" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.delvrit" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbcfa0e7-75a1-40a0-b1f0-5628f0d015b3" name="Default" comment="" />
+      <created>1493721790173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493721790173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4477612" sideWeight="0.5030349" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34056762" sideWeight="0.4969651" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../farmenv/lib/python3.5/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="299" column="6" lean-forward="false" selection-start-line="299" selection-start-column="6" selection-end-line="299" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/migrations/0003_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/migrations/0004_product_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+            <marker date="1493727649979" expanded="true" signature="928:1118" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/app/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/app/css/shop-homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7cc38070-65a7-496d-b3f8-a6f5276b6f89/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/7cc38070-65a7-496d-b3f8-a6f5276b6f89.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>7cc38070-65a7-496d-b3f8-a6f5276b6f89.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="490.125" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions</node>
+            <node x="1931.380303030303" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products</node>
+            <node x="139.40700757575746" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions</node>
+            <node x="219.0" y="397.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log</node>
+            <node x="1167.1570075757575" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders</node>
+            <node x="585.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.sqlite_sequence</node>
+            <node x="723.375" y="0.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user</node>
+            <node x="0.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_migrations</node>
+            <node x="91.625" y="104.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type</node>
+            <node x="1507.875" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items</node>
+            <node x="1016.25" y="371.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order</node>
+            <node x="1782.255303030303" y="65.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product</node>
+            <node x="1592.375" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item</node>
+            <node x="1355.25" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery</node>
+            <node x="244.0" y="1214.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_session</node>
+            <node x="1258.9166666666665" y="78.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location</node>
+            <node x="364.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.jet_bookmark</node>
+            <node x="628.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.sqlite_master</node>
+            <node x="0.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.dashboard_userdashboardmodule</node>
+            <node x="803.375" y="462.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_profile</node>
+            <node x="1709.125" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse</node>
+            <node x="883.0" y="874.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.jet_pinnedapplication</node>
+            <node x="1811.375" y="462.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse</node>
+            <node x="624.375" y="475.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group</node>
+            <node x="858.625" y="716.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups</node>
+            <node x="0.0" y="449.0">7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+              <point x="44.75" y="-56.5" />
+              <point x="992.875" y="351.0" />
+              <point x="960.675" y="351.0" />
+              <point x="67.80000000000007" y="160.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_groups" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group">
+              <point x="-44.75" y="-56.5" />
+              <point x="903.375" y="696.0" />
+              <point x="743.625" y="696.0" />
+              <point x="39.75" y="43.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse">
+              <point x="-58.0" y="-56.5" />
+              <point x="1989.380303030303" y="696.0" />
+              <point x="1945.625" y="696.0" />
+              <point x="44.75" y="56.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+              <point x="0.0" y="-69.5" />
+              <point x="1454.75" y="351.0" />
+              <point x="1395.7916666666665" y="351.0" />
+              <point x="27.375" y="82.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product">
+              <point x="0.0" y="-69.5" />
+              <point x="1691.875" y="351.0" />
+              <point x="1842.005303030303" y="351.0" />
+              <point x="-59.75" y="95.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+              <point x="106.33333333333326" y="-147.5" />
+              <point x="1282.0833333333333" y="351.0" />
+              <point x="1341.0416666666665" y="351.0" />
+              <point x="-27.375" y="82.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission">
+              <point x="-67.0" y="-56.5" />
+              <point x="206.40700757575746" y="696.0" />
+              <point x="49.75" y="696.0" />
+              <point x="-49.75" y="69.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item">
+              <point x="-49.0" y="-56.5" />
+              <point x="1758.125" y="696.0" />
+              <point x="1741.625" y="696.0" />
+              <point x="49.75" y="69.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_profile" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+              <point x="0.0" y="-56.5" />
+              <point x="0.0" y="160.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery">
+              <point x="51.25" y="-56.5" />
+              <point x="1320.9070075757575" y="696.0" />
+              <point x="1454.75" y="696.0" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type">
+              <point x="-69.75" y="-121.5" />
+              <point x="288.75" y="351.0" />
+              <point x="245.375" y="351.0" />
+              <point x="51.25" y="56.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user_user_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+              <point x="67.0" y="-56.5" />
+              <point x="340.40700757575746" y="696.0" />
+              <point x="508.5" y="696.0" />
+              <point x="508.5" y="351.0" />
+              <point x="825.075" y="351.0" />
+              <point x="-67.79999999999995" y="160.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_delivery_orders" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order">
+              <point x="-51.25" y="-56.5" />
+              <point x="1218.4070075757575" y="696.0" />
+              <point x="1096.0" y="696.0" />
+              <point x="-79.75" y="147.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item">
+              <point x="44.75" y="-56.5" />
+              <point x="-49.75" y="69.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_admin_log" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+              <point x="69.75" y="-121.5" />
+              <point x="428.25" y="341.0" />
+              <point x="757.2749999999999" y="341.0" />
+              <point x="-135.60000000000002" y="160.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_location">
+              <point x="0.0" y="-56.5" />
+              <point x="1900.875" y="341.0" />
+              <point x="1450.5416666666665" y="341.0" />
+              <point x="82.125" y="82.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_item_warehouse" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse">
+              <point x="49.0" y="-56.5" />
+              <point x="-44.75" y="56.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.django_content_type">
+              <point x="0.0" y="-69.5" />
+              <point x="99.5" y="351.0" />
+              <point x="142.875" y="351.0" />
+              <point x="-51.25" y="56.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_warehouse_products" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_product">
+              <point x="58.0" y="-56.5" />
+              <point x="2105.380303030303" y="351.0" />
+              <point x="1961.505303030303" y="351.0" />
+              <point x="59.75" y="95.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_user">
+              <point x="-106.33333333333326" y="-147.5" />
+              <point x="1069.4166666666667" y="351.0" />
+              <point x="1028.475" y="351.0" />
+              <point x="135.5999999999999" y="160.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_permission">
+              <point x="-58.0" y="-56.5" />
+              <point x="548.125" y="686.0" />
+              <point x="149.25" y="686.0" />
+              <point x="49.75" y="69.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group_permissions" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.auth_group">
+              <point x="58.0" y="-56.5" />
+              <point x="-39.75" y="43.5" />
+            </edge>
+            <edge source="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order_items" target="7cc38070-65a7-496d-b3f8-a6f5276b6f89.TABLE:main.app_order">
+              <point x="-44.75" y="-56.5" />
+              <point x="1552.625" y="686.0" />
+              <point x="1255.5" y="686.0" />
+              <point x="79.75" y="147.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.39621267297887836" x="570.9108455882354" y="595.7352941176471" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="99" column="74" lean-forward="false" selection-start-line="99" selection-start-column="74" selection-end-line="99" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delvrit/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#641#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delvrit/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <element signature="e#2376#2382#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
